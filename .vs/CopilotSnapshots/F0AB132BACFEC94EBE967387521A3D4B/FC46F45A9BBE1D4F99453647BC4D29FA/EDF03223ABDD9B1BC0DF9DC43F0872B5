@@ -1,0 +1,32 @@
+﻿using System;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using PdfPrintService.Services;
+
+namespace PdfPrintService
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+
+            // Register PrintService as a singleton
+            builder.Services.AddSingleton<PrintService>();
+            builder.Services.AddControllers();
+
+            // Configure Kestrel to listen on port 5000
+            builder.WebHost.ConfigureKestrel(options =>
+            {
+                options.ListenAnyIP(5000);
+            });
+
+            var app = builder.Build();
+
+            app.MapControllers();
+
+            app.Run();
+        }
+    }
+}

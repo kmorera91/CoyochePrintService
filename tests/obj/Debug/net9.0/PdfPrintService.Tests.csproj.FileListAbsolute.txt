@@ -1,0 +1,17 @@
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\bin\Debug\net9.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\bin\Debug\net9.0\PdfPrintService.Tests.deps.json
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\bin\Debug\net9.0\PdfPrintService.Tests.runtimeconfig.json
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\bin\Debug\net9.0\PdfPrintService.Tests.dll
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\bin\Debug\net9.0\PdfPrintService.Tests.pdb
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.csproj.AssemblyReference.cache
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.AssemblyInfoInputs.cache
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.AssemblyInfo.cs
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.dll
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\refint\PdfPrintService.Tests.dll
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.pdb
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\PdfPrintService.Tests.genruntimeconfig.cache
+C:\Users\E1371128\source\repos\coyoche1\PdfPrintService\tests\obj\Debug\net9.0\ref\PdfPrintService.Tests.dll
